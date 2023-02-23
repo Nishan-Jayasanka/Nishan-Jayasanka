@@ -13,6 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nishan-jayasanka&show_icons=true&locale=en" alt="nishan-jayasanka" /></p>
 
-🔥 **My contributions**
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan-jayasanka&" alt="nishan-jayasanka" /></p>
