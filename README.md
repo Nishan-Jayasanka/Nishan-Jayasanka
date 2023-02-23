@@ -3,9 +3,9 @@
 
 - 🎓 I’m an undergraduate in the field of **Computer Science & Engineering**
 
-- 📫 Reach me through **nishan.18@cse.mrt.ac.lk**
+- 💻 Former Software Engineering Intern at **LSEG Technology**
 
-- 💻 Former software engineering intern at [LSEG Technology](LSEG Technology)
+- 📫 Reach me through **nishan.18@cse.mrt.ac.lk**
 
 
 <h3 align="left">Languages and Tools:</h3>
