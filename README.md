@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishan</h1>
 <h3 align="center">Passionate and self-motivated undergraduate in the field of developing software applications with the latest technologies</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html">
 - 🎓 I’m an undergraduate in the field of **Computer Science & Engineering**
 
 - 💻 Former Software Engineering Intern at **LSEG Technology**
